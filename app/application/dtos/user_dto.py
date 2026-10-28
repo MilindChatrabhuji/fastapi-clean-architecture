@@ -1,9 +1,9 @@
-from pydantic import BaseModel, EmailStr
+from pydantic import BaseModel, Field
 from typing import Optional
 from datetime import datetime
 
 class UserCreateDTO(BaseModel):
-    email: EmailStr
+    email: str = Field(..., pattern=r"^[^@]+@[^@]+\.[^@]+$")
     full_name: str
 
 class UserResponseDTO(BaseModel):
