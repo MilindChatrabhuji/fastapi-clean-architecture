@@ -1,5 +1,12 @@
 # FastAPI Clean Architecture & DDD Template 🏛️
 
+[![NexusPulse EdgeSaaS](https://raw.githubusercontent.com/MilindChatrabhuji/Earning-Machine/main/distribution/digital_assets/edgesaas-banner-readme.svg)](https://edgesaas.nexus-pulse.com)
+
+> ⚡ **Building edge-first Micro-SaaS?** Check out [**NexusPulse EdgeSaaS**](https://edgesaas.nexus-pulse.com) — production Cloudflare Workers boilerplate with /mo idle cost, Hono, Stripe billing, and Web Crypto auth.
+
+---
+
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![FastAPI](https://img.shields.io/badge/Framework-FastAPI-009688.svg)](https://fastapi.tiangolo.com/)
 [![Pydantic v2](https://img.shields.io/badge/Pydantic-v2.0+-e92063.svg)](https://docs.pydantic.dev/)
