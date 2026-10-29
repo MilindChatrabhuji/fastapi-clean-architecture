@@ -1,6 +1,6 @@
 # FastAPI Clean Architecture & DDD Template 🏛️
 
-[![NexusPulse EdgeSaaS](https://raw.githubusercontent.com/MilindChatrabhuji/nexus-edgesaas/main/distribution/digital_assets/edgesaas-banner-readme.svg)](https://edgesaas.nexus-pulse.com)
+[![NexusPulse EdgeSaaS](https://raw.githubusercontent.com/MilindChatrabhuji/edgesaas-starter-kit/main/distribution/digital_assets/edgesaas-banner-readme.svg)](https://edgesaas.nexus-pulse.com)
 
 > ⚡ **Building edge-first Micro-SaaS?** Check out [**NexusPulse EdgeSaaS**](https://edgesaas.nexus-pulse.com) — production Cloudflare Workers boilerplate with /mo idle cost, Hono, Stripe billing, and Web Crypto auth.
 
